@@ -12,5 +12,10 @@
         <li>Integração Contínua: curso de integração continua da alura</li>
 	<li>Kubernets</li>
     </ul>
+    <h2>Cursos de linux</h2>
+    <ul>
+        <li>Linux 1</li>
+        <li>Linux 2</li>
+    </ul>
 </body>
 </html>
