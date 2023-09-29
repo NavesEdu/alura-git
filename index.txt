@@ -5,12 +5,18 @@
     <title>Cursos da Alura</title>
 </head>
 <body>
+    <h2>Cursos de devops</h2>
     <ul>
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansible</li>
         <li>Integração Contínua: curso de integração continua da alura</li>
 	<li>Kubernets</li>
+    </ul>
+    <h2>Cursos de devops</h2>
+    <ul>
+        <li>AmazonEC</li>
+        <li>Amazons3</li>
     </ul>
 </body>
 </html>
